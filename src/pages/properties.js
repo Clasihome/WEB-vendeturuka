@@ -1,18 +1,17 @@
-import React, { Fragment } from 'react';
+import React, { Fragment } from "react";
 
-import Hero from '../components/properties/hero';
-import Properties from '../components/properties/properties';
-import Reviews from '../components/properties/reviews';
-import Contact from '../components/contact';
+import Hero from "../components/properties/hero";
+import Properties from "../components/properties/properties";
+import Reviews from "../components/properties/reviews";
+import Contact from "../components/contact";
 
-export default ()=> {
-
-  return(
+export default () => {
+  return (
     <Fragment>
       <Hero />
       <Properties />
-      <Reviews />
+      {/* <Reviews /> */}
       <Contact />
     </Fragment>
-  )
-}
+  );
+};

@@ -13,9 +13,9 @@ import { Input, Textarea } from "../inputs";
 import { Button } from "../../styled-components";
 
 const SectionCustom = styled(Section)`
-  background-color: #383838;
+  background-color: #f3f3f3;
   padding: 2rem;
-  border: 1px solid #383838;
+  border: 1px solid #f3f3f3;
   height: 100%;
   display: flex;
   flex-direction: column;

@@ -19,10 +19,10 @@ const CharsContainer = styled.div`
   overflow: hidden;
   transition: 250ms ease;
   position: relative;
-  background-color: #000;
+  background-color: #f3f3f3;
   padding: 2rem;
   padding-bottom: 2rem;
-  border: 1px solid #383838;
+  border: 1px solid #f3f3f3;
   margin-bottom: 2rem;
   //box-shadow: 0px 1px 1px rgba(0, 0, 0, .12), 0px 2px 2px rgba(0, 0, 0, .12), 0px 4px 4px rgba(0, 0, 0, .12), 0px 8px 8px rgba(0, 0, 0, .12), 0px 16px 16px rgba(0, 0, 0, .12);
 `;
@@ -33,7 +33,7 @@ const MoreButton = styled.button`
   position: absolute;
   left: 0;
   bottom: 0;
-  background-image: linear-gradient(to top, rgb(37 37 37) 10%, #212121de);
+  background-image: linear-gradient(to top, rgb(255 255 255) 10%, #ffffff1a);
   //border: 1px solid red;
   display: flex;
   justify-content: flex-end;

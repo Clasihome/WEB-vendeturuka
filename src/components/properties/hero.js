@@ -15,13 +15,19 @@ const MainCont = styled(Section)`
   flex-direction: column;
 `;
 const TitleCont = styled.div`
-  background-color: #000;
-  @media (min-width: 768px) {
+  top: 50px;
+  background-color: transparent;
+  width: 100%;
+  position: absolute;
+  z-index: 9999;
+  @media (max-width: 768px) {
+    top: 0px;
+    padding-left: 20px;
   }
 `;
 const Title = styled.h1`
   min-height: 40vh;
-  color: ${(props) => props.theme.primaryColor};
+  color: #fff;
   display: flex;
   align-items: center;
   margin: 0;
@@ -39,7 +45,8 @@ const FormContainer = styled.div`
   align-items: center;
   position: relative;
   z-index: 100;
-  @media (min-width: 768px) {
+  @media (max-width: 768px) {
+    padding-top: 200px;
   }
 `;
 const RateBarCont = styled.div`
@@ -100,7 +107,7 @@ export default () => {
   }, []);
 
   return (
-    <MainCont first height='100vh'>
+    <MainCont height='90vh'>
       <TitleCont>
         <Container>
           <Title id='title'>Propiedades</Title>

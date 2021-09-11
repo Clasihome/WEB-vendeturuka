@@ -32,8 +32,8 @@ const GlobalStyles = createGlobalStyle`
     }    
   }
   body{
-    color: #fff;
-    background-color: #000;
+    color: #000;
+    background-color: #fff;
   }
   a{
     text-decoration: none !important;
@@ -249,7 +249,7 @@ export default ({ children, location }) => {
           <GlobalStyles />
           <MobileHeader />
           <DesktopHeader
-            dark={
+            light={
               location.pathname !== "/" &&
               location.pathname !== "/about" &&
               location.pathname !== "/properties"

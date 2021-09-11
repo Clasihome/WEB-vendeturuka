@@ -9,7 +9,8 @@ import { NavLink, NavButton } from "../styled-components";
 import Link from "../components/link";
 
 const Header = styled.header`
-  background-color: #000;
+  /* background-color: transparent; */
+  background-image: linear-gradient(180deg, #00000070 30%, #ffffff00 100%);
   position: absolute;
   top: 0;
   left: 0;
@@ -49,11 +50,37 @@ export default ({ dark }) => {
                 to='/properties'
                 duration={0.5}
               >
+                {console.log("dark", dark, !dark)}
                 <NavLink dark={dark} light={!dark}>
                   Propiedades
                 </NavLink>
               </Link>
             </NavItem>
+            <NavItem>
+              <Link
+                paintDrip
+                hex={state.primaryColor}
+                to='/services'
+                duration={0.5}
+              >
+                <NavLink dark={dark} light={!dark}>
+                  Servicios
+                </NavLink>
+              </Link>
+            </NavItem>
+            <NavItem>
+              <Link
+                paintDrip
+                hex={state.primaryColor}
+                to='/values'
+                duration={0.5}
+              >
+                <NavLink dark={dark} light={!dark}>
+                  Valores
+                </NavLink>
+              </Link>
+            </NavItem>
+
             <NavItem>
               <Link
                 paintDrip

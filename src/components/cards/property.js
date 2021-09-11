@@ -22,7 +22,7 @@ const Card = styled.div`
   width: 95%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   min-height: 600px;
-  background-color: #171717;
+  background-color: #fff;
   @media (min-width: 768px) {
     width: 100%;
     margin: 0;

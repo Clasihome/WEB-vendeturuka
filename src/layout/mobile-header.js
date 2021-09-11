@@ -16,7 +16,7 @@ import Link from "../components/link";
 
 const Header = styled.header`
   //overflow: hidden;
-  background-color: #000;
+  background-color: #fff;
   position: fixed;
   width: 100%;
   top: 0;
@@ -71,7 +71,7 @@ export default () => {
               height={15}
               strokeWidth={2}
               rotate={0}
-              color='#ffffff'
+              color='#000'
               borderRadius={0}
               animationDuration={0.5}
             />

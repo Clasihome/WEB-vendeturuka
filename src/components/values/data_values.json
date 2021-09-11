@@ -1,0 +1,86 @@
+[
+  {
+    "background": "/values_1.webp",
+    "title": "FOTOGRAFIA PROFESIONAL",
+    "value": "VALOR $100.000",
+    "description": "Un profesional experimentado va a tu propiedad para tomar fotografías profesionales las cuales son mejoradas con sistemas Photoshop u otros para que la presentación sea óptima"
+  },
+  {
+    "background": "/values_2.webp",
+    "title": "FOTOGRAFIA Y VIDEO PROFESIONAL",
+    "value": "VALOR $150.000",
+    "description": "Este servicio considera hacer fotografías y Videos realizados por un profesional especializado, las fotografías son mejoradas con sistema de Photoshop y los Videos serán editados para que puedan ser presentado en redes sociales y los portales que lo permitan"
+  },
+  {
+    "background": "/values_3.jpg",
+    "title": "ACOMPAÑAMIENTO DE VISITAS",
+    "value": "VALOR $150.000",
+    "description": "Un Agente acompaña a las visitas y hace la gestión por ti, si es que no puedes hacerla en forma directa ya sea porque no puedes estar presente u otro."
+  },
+  {
+    "background": "/values_4.webp",
+    "title": "FILTRADO DE INTERESADO",
+    "value": "VALOR $65.000",
+    "description": "Hecho por un agente, se llama al Prospecto, se revisa y filtra, solicitando antecedentes comerciales para definir solvencia económica y determinar si tiene capacidad de pago para optar a un crédito Hipotecario o si ya tiene aprobado un Crédito Hipotecario"
+  },
+  {
+    "background": "/values_5.webp",
+    "title": "INFORMES PERIODICOS",
+    "value": "VALOR $50.000",
+    "description": "Te hacemos llegar una información de los resultados de cada portal, estos son cantidad de personas y número de visitas."
+  },
+  {
+    "background": "/values_6.webp",
+    "title": "CIERRE DE NEGOCIO HASTA LA PROMESA",
+    "value": "VALOR $150.000",
+    "description": "Permite que te acompañemos en esta etapa en que llegas a un acuerdo con tu comprador y hacemos promesa e instrucciones notariales."
+  },
+  {
+    "background": "/values_4.webp",
+    "title": "OBTENCIÓN DE DOCUMENTOS",
+    "value": "VALOR $95.000",
+    "description": "Obtenemos toda la información necesaria para el estudio de títulos y pueda ser evaluada por el Banco Comprador y/o abogado del Comprador."
+  },
+  {
+    "background": "/values_7.webp",
+    "title": "MARKETING Y REDES SOCIALES",
+    "value": "VALOR $80.000",
+    "description": "Permite mejorar la visibilidad y potenciar la venta al publicarla en redes sociales en forma destacada y de pago esto en combinación con los portales genera una sinergia muy importante para lograr un resultado óptimo."
+  },
+  {
+    "background": "/values_8.webp",
+    "title": "LETRERO PUBLICITARIO",
+    "value": "VALOR $35.000",
+    "description": "Se hace entrega de un letrero de 120x60cm “VENDE o ARRIENDA DUEÑO SIN COMISIÓN” y se deja un espacio en blanco para que pueda poner un numero de contacto."
+  },
+  {
+    "background": "/values_9.webp",
+    "title": "MODULO LEGAL DESDE EL CIERRE DEL NEGOCIO HASTA LA INSCRIPCION EN EL CBR",
+    "value": "COTIZAR",
+    "description": "Con este servicio hacemos toda la tramitación legal desde el cierre de negocios hasta la inscripción en el CBR y posterior pago al vendedor."
+  },
+  {
+    "background": "/values_10.webp",
+    "title": "ESTUDIOS DE TÍTULOS",
+    "value": "VALOR $450.000",
+    "description": "Te proporcionamos un abogado especializado para que revise los títulos de la propiedad, verificar que se encuentren ajustados a derecho para que posteriormente el Banco comprador haga la escritura de compra/venta"
+  },
+  {
+    "background": "/values_11.webp",
+    "title": "TASACIÓN PRESENCIAL",
+    "value": "COTIZAR",
+    "description": "Un Tasador profesional hace la evaluación para obtener un precio real de venta."
+  },
+  {
+    "background": "/values_12.webp",
+    "title": "TASACIÓN NO PRESENCIAL",
+    "value": "VALOR $120.000",
+    "description": "Mediante tecnologías que usan algoritmos y Big data se hace la tasación de forma remota."
+  },
+  {
+    "background": "/values_13.webp",
+    "title": "TOUR VIRTUAL 360º",
+    "value": "COTIZAR",
+    "description": "Te hacemos un Tour virtual con una tecnología que permite hacer un recorrido al interior por la propiedad en forma virtual y muy real"
+  }
+]
